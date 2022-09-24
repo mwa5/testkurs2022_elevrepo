@@ -1,0 +1,17 @@
+C:\utveckling\testkurs2022\Testkurs2022_tsqlt\tSQLt_Demo\bin\Debug\tSQLt_Demo.dacpac
+C:\utveckling\testkurs2022\Testkurs2022_tsqlt\tSQLt_Demo\bin\Debug\tSQLt_Demo.dll
+C:\utveckling\testkurs2022\Testkurs2022_tsqlt\tSQLt_Demo\bin\Debug\tSQLt_Demo.pdb
+C:\utveckling\testkurs2022\Testkurs2022_tsqlt\tSQLt_Demo\bin\Debug\tSQLtCLR.dll
+C:\utveckling\testkurs2022\Testkurs2022_tsqlt\tSQLt_Demo\bin\Debug\master.dacpac
+C:\utveckling\testkurs2022\Testkurs2022_tsqlt\tSQLt_Demo\obj\Debug\tSQLt_Demo.sqlproj.AssemblyReference.cache
+C:\utveckling\testkurs2022\Testkurs2022_tsqlt\tSQLt_Demo\obj\Debug\tSQLt_Demo.sqlproj.CopyComplete
+C:\utveckling\testkurs2022\Testkurs2022_tsqlt\tSQLt_Demo\obj\Debug\tSQLt_Demo.dll
+C:\utveckling\testkurs2022\Testkurs2022_tsqlt\tSQLt_Demo\obj\Debug\tSQLt_Demo.pdb
+C:\utveckling\testkurs2022_elevrepo\Testkurs2022_tsqlt\tSQLt_Demo\bin\Debug\tSQLt_Demo.dacpac
+C:\utveckling\testkurs2022_elevrepo\Testkurs2022_tsqlt\tSQLt_Demo\bin\Debug\tSQLt_Demo.dll
+C:\utveckling\testkurs2022_elevrepo\Testkurs2022_tsqlt\tSQLt_Demo\bin\Debug\tSQLt_Demo.pdb
+C:\utveckling\testkurs2022_elevrepo\Testkurs2022_tsqlt\tSQLt_Demo\bin\Debug\tSQLtCLR.dll
+C:\utveckling\testkurs2022_elevrepo\Testkurs2022_tsqlt\tSQLt_Demo\bin\Debug\master.dacpac
+C:\utveckling\testkurs2022_elevrepo\Testkurs2022_tsqlt\tSQLt_Demo\obj\Debug\tSQLt_Demo.sqlproj.CopyComplete
+C:\utveckling\testkurs2022_elevrepo\Testkurs2022_tsqlt\tSQLt_Demo\obj\Debug\tSQLt_Demo.dll
+C:\utveckling\testkurs2022_elevrepo\Testkurs2022_tsqlt\tSQLt_Demo\obj\Debug\tSQLt_Demo.pdb

@@ -1,0 +1,87 @@
+2022-09-23 20:43:30	This log contains information about the import schema operation into project 'tSQLt_Demo' on computer 'WMU0203' by user 'MWAD'.
+2022-09-23 20:43:30	Import of database schema has started.
+2022-09-23 20:43:36	Gathering database credentials
+2022-09-23 20:43:36	Gathering database options
+2022-09-23 20:43:36	Gathering generic database scoped configuration option
+2022-09-23 20:43:36	Gathering users
+2022-09-23 20:43:36	Gathering roles
+2022-09-23 20:43:36	Gathering application roles
+2022-09-23 20:43:36	Gathering role memberships
+2022-09-23 20:43:36	Gathering filegroups
+2022-09-23 20:43:36	Gathering full-text catalogs
+2022-09-23 20:43:36	Gathering assemblies
+2022-09-23 20:43:36	Gathering certificates
+2022-09-23 20:43:36	Gathering asymmetric keys
+2022-09-23 20:43:36	Gathering symmetric keys
+2022-09-23 20:43:36	Gathering encrypted symmetric keys
+2022-09-23 20:43:36	Gathering schemas
+2022-09-23 20:43:36	Gathering XML schema collections
+2022-09-23 20:43:36	Gathering user-defined data types
+2022-09-23 20:43:36	Gathering user-defined types
+2022-09-23 20:43:36	Gathering table types
+2022-09-23 20:43:36	Gathering unique keys for table types
+2022-09-23 20:43:36	Gathering primary keys for table types
+2022-09-23 20:43:36	Gathering indexes for table types
+2022-09-23 20:43:36	Gathering check constraints for table types
+2022-09-23 20:43:36	Gathering default constraints for table types
+2022-09-23 20:43:36	Gathering partition functions
+2022-09-23 20:43:36	Gathering partition schemes
+2022-09-23 20:43:36	Gathering functions
+2022-09-23 20:43:37	Gathering encrypted functions
+2022-09-23 20:43:37	Gathering aggregates
+2022-09-23 20:43:37	Gathering procedures
+2022-09-23 20:43:37	Gathering encrypted procedures
+2022-09-23 20:43:37	Gathering tables
+2022-09-23 20:43:37	Gathering primary keys
+2022-09-23 20:43:37	Gathering unique constraints
+2022-09-23 20:43:37	Gathering foreign keys
+2022-09-23 20:43:37	Gathering default constraints
+2022-09-23 20:43:37	Gathering check constraints
+2022-09-23 20:43:37	Gathering views
+2022-09-23 20:43:37	Gathering encrypted views
+2022-09-23 20:43:37	Gathering indexes
+2022-09-23 20:43:37	Gathering statistics
+2022-09-23 20:43:37	Gathering full-text index stoplists
+2022-09-23 20:43:37	Gathering search property lists
+2022-09-23 20:43:37	Gathering search properties
+2022-09-23 20:43:37	Gathering full-text indexes
+2022-09-23 20:43:37	Gathering column store indexes
+2022-09-23 20:43:37	Gathering spatial indexes
+2022-09-23 20:43:37	Gathering XML indexes
+2022-09-23 20:43:37	Gathering Selective XML indexes
+2022-09-23 20:43:37	Gathering encrypted triggers
+2022-09-23 20:43:37	Gathering triggers
+2022-09-23 20:43:37	Gathering encrypted and clr ddl triggers
+2022-09-23 20:43:37	Gathering ddl triggers
+2022-09-23 20:43:37	Creating edge constraints
+2022-09-23 20:43:37	Gathering synonyms
+2022-09-23 20:43:37	Gathering defaults
+2022-09-23 20:43:37	Gathering data constraint uddt bindings
+2022-09-23 20:43:37	Gathering rules
+2022-09-23 20:43:37	Gathering data constraint uddt bindings
+2022-09-23 20:43:37	Gathering message types
+2022-09-23 20:43:37	Gathering queues
+2022-09-23 20:43:37	Gathering contracts
+2022-09-23 20:43:37	Gathering services
+2022-09-23 20:43:37	Gathering event notifications
+2022-09-23 20:43:37	Gathering remote service bindings
+2022-09-23 20:43:37	Gathering broker priorities
+2022-09-23 20:43:37	Gathering signatures
+2022-09-23 20:43:37	Gathering data compression options
+2022-09-23 20:43:37	Gathering sequence types
+2022-09-23 20:43:37	Gathering security policies
+2022-09-23 20:43:37	Gather column encryption keys
+2022-09-23 20:43:37	Gathering column master keys
+2022-09-23 20:43:37	Gathering external data sources
+2022-09-23 20:43:37	Gathering external file formats
+2022-09-23 20:43:37	Gathering external tables
+2022-09-23 20:43:37	Gathering extended properties
+2022-09-23 20:43:37	Gathering assemblies
+2022-09-23 20:43:37	Gathering credentials
+2022-09-23 20:43:37	Gathering logins
+2022-09-23 20:43:37	Gathering server audits
+2022-09-23 20:43:38	Scanning project for duplicate elements
+2022-09-23 20:43:38	Finished duplicate element processing
+2022-09-23 20:43:39	Finished importing database.
+2022-09-23 20:43:39	A summary of the import was saved to the following location: C:\utveckling\testkurs2022\Testkurs2022_tsqlt\tSQLt_Demo\Import Schema Logs\tSQLt_Demo_20220923064330.log
+2022-09-23 20:43:39	Click Finish to continue...
