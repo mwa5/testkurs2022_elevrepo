@@ -31,6 +31,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExampleSelenium", "ExampleS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleSelenium", "ExampleSelenium\ExampleSelenium.csproj", "{CDD2E46A-8FB0-4856-ACED-6ED544EB1256}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LabRomerskaSiffror", "LabRomerskaSiffror", "{4EEB0330-DA73-4F8F-91F2-0D565ACA4D53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabRomerskaSiffror", "LabRomerskaSiffror\LabRomerskaSiffror.csproj", "{2C1764A7-1F5D-4BA1-AB25-9BCDB29DAF8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,6 +69,10 @@ Global
 		{CDD2E46A-8FB0-4856-ACED-6ED544EB1256}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDD2E46A-8FB0-4856-ACED-6ED544EB1256}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDD2E46A-8FB0-4856-ACED-6ED544EB1256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C1764A7-1F5D-4BA1-AB25-9BCDB29DAF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C1764A7-1F5D-4BA1-AB25-9BCDB29DAF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C1764A7-1F5D-4BA1-AB25-9BCDB29DAF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C1764A7-1F5D-4BA1-AB25-9BCDB29DAF8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -82,6 +90,8 @@ Global
 		{8219C506-17D4-4DAE-8CEB-58DD1B300B70} = {694CB0E3-E270-41DD-AC1E-D67E5A39736C}
 		{FF4CA388-CD55-455A-8678-DB85DCEED098} = {60BB3EFC-D5EA-4F38-A93C-A5A12599DC2D}
 		{CDD2E46A-8FB0-4856-ACED-6ED544EB1256} = {FF4CA388-CD55-455A-8678-DB85DCEED098}
+		{4EEB0330-DA73-4F8F-91F2-0D565ACA4D53} = {C7620A52-B6F3-498E-85C9-C00B70ED1A4E}
+		{2C1764A7-1F5D-4BA1-AB25-9BCDB29DAF8F} = {4EEB0330-DA73-4F8F-91F2-0D565ACA4D53}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {38E3C62E-0985-4CED-9F4E-0119D7A90CF7}

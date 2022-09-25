@@ -15,3 +15,4 @@ C:\utveckling\testkurs2022_elevrepo\Testkurs2022_tsqlt\tSQLt_Example\bin\Debug\m
 C:\utveckling\testkurs2022_elevrepo\Testkurs2022_tsqlt\tSQLt_Example\obj\Debug\tSQLt_Example.sqlproj.CopyComplete
 C:\utveckling\testkurs2022_elevrepo\Testkurs2022_tsqlt\tSQLt_Example\obj\Debug\tSQLt_Example.dll
 C:\utveckling\testkurs2022_elevrepo\Testkurs2022_tsqlt\tSQLt_Example\obj\Debug\tSQLt_Example.pdb
+C:\utveckling\testkurs2022_elevrepo\Testkurs2022_tsqlt\tSQLt_Example\obj\Debug\tSQLt_Example.sqlproj.AssemblyReference.cache

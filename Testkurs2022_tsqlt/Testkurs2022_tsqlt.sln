@@ -7,6 +7,8 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "tSQLt_Example", "tSQLt_Exam
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "tSQLt_Demo", "tSQLt_Demo\tSQLt_Demo.sqlproj", "{95D92185-1159-45FC-B501-BC1FDECD9E93}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "RomerskaSiffror", "RomerskaSiffror\RomerskaSiffror.sqlproj", "{7D1CC709-7580-41B4-A75F-8E3BC08329D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,12 @@ Global
 		{95D92185-1159-45FC-B501-BC1FDECD9E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95D92185-1159-45FC-B501-BC1FDECD9E93}.Release|Any CPU.Build.0 = Release|Any CPU
 		{95D92185-1159-45FC-B501-BC1FDECD9E93}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{7D1CC709-7580-41B4-A75F-8E3BC08329D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D1CC709-7580-41B4-A75F-8E3BC08329D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D1CC709-7580-41B4-A75F-8E3BC08329D5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7D1CC709-7580-41B4-A75F-8E3BC08329D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D1CC709-7580-41B4-A75F-8E3BC08329D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D1CC709-7580-41B4-A75F-8E3BC08329D5}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
