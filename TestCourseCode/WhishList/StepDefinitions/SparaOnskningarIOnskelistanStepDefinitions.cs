@@ -7,7 +7,7 @@ namespace WhishList.StepDefinitions
     public class SparaOnskningarIOnskelistanStepDefinitions
     {
         [Given(@"Det finns ett barn som heter (.*) och som önskar sig en (.*)")]
-        public void GivenDetFinnsEttBarnSomHeterFolkeOchSomOnskarSigEnKniv(string barn, string leksak)
+        public void GivenDetFinnsEttBarnSomOnskarSigEnLeksak(string barn, string leksak)
         {
             throw new PendingStepException();
         }
