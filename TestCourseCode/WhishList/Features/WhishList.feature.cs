@@ -114,10 +114,10 @@ this.ScenarioInitialize(scenarioInfo);
  testRunner.Given("Det finns ett barn som heter Folke och som önskar sig en kniv", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line hidden
 #line 8
- testRunner.When("Jag sparar Folkes önskan om kniv", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+ testRunner.When("Jag sparar önskan i önskelistan", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line hidden
 #line 9
- testRunner.Then("Så får jag tillbaka texten \"Önskan sparades\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+ testRunner.Then("Så får jag tillbaka texten Önskan sparades", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             }
             this.ScenarioCleanup();
