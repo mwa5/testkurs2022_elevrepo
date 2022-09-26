@@ -18,9 +18,4 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="WhishList\" />
-    <Folder Include="Specs\" />
-  </ItemGroup>
-
 </Project>
