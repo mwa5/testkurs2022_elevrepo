@@ -1,7 +1,8 @@
-namespace WebApi.Models;
-
-public class WeatherForecastConfiguration
+namespace WebApi.Models
 {
-    public string? FilePath { get; set; }
-    public string? ConnectionString { get; set; }
+    public class WeatherForecastConfiguration
+    {
+        public string? FilePath { get; set; }
+        public string? ConnectionString { get; set; }
+    }
 }

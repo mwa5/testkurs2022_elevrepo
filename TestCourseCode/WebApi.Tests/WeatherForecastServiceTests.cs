@@ -20,6 +20,7 @@ public class WeatherForecastServiceTests
 {
     #region Exempel 1 - Arrange/Act/Assert
 
+    
     [Fact]
     public void When_forecast_data_fails()
     {
@@ -64,11 +65,11 @@ public class WeatherForecastServiceTests
         Assert.Equal(5, result);
     }
 
-
     [Theory]
     [InlineData(2, 3, 5)]
     [InlineData(1, 2, 3)]
     [InlineData(1, 1, 2)]
+
     public void When_AddForecastData_sums_data_successfully_inlineParam(int data1, int data2, int expected)
     {
         //Arrange
@@ -102,6 +103,10 @@ public class WeatherForecastServiceTests
     {
         public IEnumerator<object[]> GetEnumerator()
         {
+            yield return new object[] { 2, 3, 5 };
+            yield return new object[] { 2, 3, 5 };
+            yield return new object[] { 2, 3, 5 };
+            yield return new object[] { 2, 3, 5 };
             yield return new object[] { 2, 3, 5 };
             yield return new object[] { 1, 2, 3 };
             yield return new object[] { 1, 1, 2 };

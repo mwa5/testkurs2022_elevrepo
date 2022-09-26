@@ -14,4 +14,5 @@ namespace Lab1Calculator
             //Assert
         }
     }
+
 }
