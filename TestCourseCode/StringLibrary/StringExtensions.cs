@@ -64,12 +64,7 @@ namespace StringLibrary
             {
                 throw new ArgumentNullException(nameof(predicate));
             }
-
-            if (!source.Any())
-            {
-                throw new InvalidOperationException(nameof(source));
-            }
-
+            
             foreach (TSource element in source)
             {
                 if (!predicate(element))
