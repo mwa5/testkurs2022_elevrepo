@@ -10,7 +10,7 @@ namespace ExampleSpecflow.Calculator
     {
         public int sum(int firstNumber, int secondNumber)
         {
-            throw new NotImplementedException();
+            return firstNumber + secondNumber;
         }
     }
 }
